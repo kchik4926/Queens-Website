@@ -1,8 +1,7 @@
-## Neighborhood: Elmhurst, Queens 
-# Honors Assignment # 9
+# Neighborhood: Elmhurst, Queens 
+## Honors Assignment # 9
 
-Basic Statistics & Demographics:
-
+Neighborhood Statistics & Demographics:
 - Population: 100,820
 - Area: 750.28 acres
 - Population Density: 117.9 inhabitants per acre 
