@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Neighborhood: Elmhurst, Queens 
+# Honors Assignment # 9
 
-You can use the [editor on GitHub](https://github.com/kchik4926/Queens-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Basic Statistics & Demographics:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Population: 100,820
+- Area: 750.28 acres
+- Population Density: 117.9 inhabitants per acre 
+- Median Age: 35
+- Racial Makeup: 6.6% white, 1.3% African American, 0.2% Native American, 43.8% Asian, 41.8% Hispanic/Latino, 1.6% two or more races, and 0.4% other
 
-### Markdown
+Geojson Map:
+<script src="https://embed.github.com/view/geojson/kchik4926/fun-times/master/[map.geojson]"></script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kchik4926/Queens-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
