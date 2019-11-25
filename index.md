@@ -38,6 +38,9 @@ Statistics & Demographics:
 * 1.3% Mixed-race
 * 0.2% Other
 
+Neighborhood Map:
+![maspeth](https://user-images.githubusercontent.com/56621097/69440016-06a2de00-0d16-11ea-9655-1c48d79a9cea.png)
+
 ## Proposed Stations for Maspeth:
 <script src="https://embed.github.com/view/geojson/melody1117/Maspeth/master/MaspethGeojson.geojson" ></script>
 
