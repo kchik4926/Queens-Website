@@ -52,5 +52,11 @@ Neighborhood Map:
 
 ### Neighborhood Profile: Sunnyside 
 
+Neighborhood Map:
+![sunnyside](https://user-images.githubusercontent.com/56729637/69568391-82f12780-0f89-11ea-9800-71e6ac49b469.png)
+
+### Proposed Stations for Sunnyside:
+<script src="https://embed.github.com/view/geojson/kchik4926/fun-times/master/map2.geojson"></script>
+
 Reasoning: Based on commute data provided by Google Maps, CityMapper, and WNYC, along with rankings provided by various outlets such as Niche, we predict that the expansion of Citi Bike into Sunnyside may generally cause a moderate increase in rent prices, but otherwise have little effect. An analysis performed by FiveThirtyEight concluded that on average, New Yorkers are willing to pay about $56 more for each minute a commute is shortened by renting a given residence. This rule predicts only a low to moderate increase ($0 - $280) on rents in Sunnyside when CitiBike expands there, as there is generally less than a five minute difference between the time it takes to walk from a residence to the nearest train station and the time it takes to bike there -- for some residences, there is actually no difference at all. The further a residence is from the nearest train station, the greater the time difference between walking and biking. Of course, these commute times can vary somewhat based on different individuals’ walking and biking speeds, and these predictions assume that residents choose to take advantage of Citi Bike when it comes. It is also important to remember that while walking is free, there is a cost to using Citi Bike — $169 per year, or $14.95 per month with an annual commitment, which residents may not consider to be worth the little to no difference in commute time. With these slight increases, the cost of living in Sunnyside won’t become much more expensive than it already is, currently ranked by Niche as an abysmal D-. The general quality of life is also unlikely to see much change, as Sunnyside has already been ranked as one of the safest and most walkable neighborhoods by various media (the neighborhood earned an almost perfect walkability score of 9.6 from 
 
