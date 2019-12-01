@@ -63,3 +63,9 @@ Reasoning: Based on commute data provided by Google Maps, CityMapper, and WNYC, 
 ### Voronoi Map of Proposed Stations:
 ![Proposed Stations](https://user-images.githubusercontent.com/56729637/69908413-ec709c00-13b6-11ea-9beb-cc50565c94e1.png)
 
+Legend:
+Blue - Elmhurst
+Red - Sunnyside
+Purple - Maspeth
+
+
